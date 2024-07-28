@@ -1,6 +1,6 @@
 1  Task 2. Part 1 . p1
-2
-3
+2 Changes 2 lines from git_1 Task 2 part 1 p7
+3 .....
 4
 5
 6
