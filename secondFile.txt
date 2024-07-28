@@ -1,6 +1,6 @@
 1  Task 2 Part 1 p2
-2
-3
+2 Changes 1 from git_1 Task 2 p 1 p 5
+3 changes ...
 4
 5
 6
