@@ -1,8 +1,8 @@
 1  Task 2. Part 1 . p1
-2
-3
-4
-5
+2 Changes 2 lines from git_1 Task 2 part 1 p7
+3 .....
+4 Changes two another lines 
+5  from git_1 task 2 part 1 p8
 6
 7
 8
